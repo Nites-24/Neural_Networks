@@ -23,9 +23,13 @@ This project demonstrates the implementation of a basic **neural network** to cl
 ---
 
 ## **Code and Notebook**
+## **Code and Notebook**
 The implementation of the neural network is available in the Jupyter Notebook file:  
 [Neural_Networks.ipynb](./Neural_Networks.ipynb).
-You can open this notebook in **Google Colab** for interactive execution.
+
+You can also open the notebook in Google Colab for interactive execution:  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nites-24/Neural_Networks/blob/main/Neural_Networks.ipynb)
+
 
 ---
 
