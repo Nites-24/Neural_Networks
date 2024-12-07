@@ -1,4 +1,4 @@
-# **Day 01: Neural Network for MNIST Classification**
+# **Neural Network for MNIST Classification**
 
 ## **Overview**
 This project demonstrates the implementation of a basic **neural network** to classify handwritten digits from the MNIST dataset. It introduces key concepts in deep learning, including:
