@@ -23,7 +23,6 @@ This project demonstrates the implementation of a basic **neural network** to cl
 ---
 
 ## **Code and Notebook**
-## **Code and Notebook**
 The implementation of the neural network is available in the Jupyter Notebook file:  
 [Neural_Networks.ipynb](./Neural_Networks.ipynb).
 
